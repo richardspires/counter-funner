@@ -1,0 +1,11 @@
+body{
+    margin: 40px;
+    background-color: blueviolet;
+}
+
+.counter{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(18, 214, 18);
+}
